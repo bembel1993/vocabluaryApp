@@ -1,0 +1,10 @@
+ Russ: Соответственно||Eng: According||De: Entsprechend
+ Russ: Следовательно||Eng: Consequent||De: Folglich
+ Russ: Храбрость||Eng: Brave||De: die Tapferkeit
+ Russ: Я||Eng: I||De: Ich
+ Russ: применяемый||Eng: applied||De: anwenden
+ Russ: Цель||Eng: purpose||De: der Zweck
+ Russ: позвольте||Eng: let me||De: lass mich
+ Russ: восхитительно||Eng: delightfully||De: herrlich
+ Russ: величие||Eng: greatness||De: die Groesse
+ Russ: требовать||Eng: demand||De: fordern
